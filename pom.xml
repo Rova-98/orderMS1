@@ -15,6 +15,9 @@
 	<description>Order micro-service Springboot</description>   
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>rova-98_orderMS1</sonar.projectKey>
+		<sonar.organization>Rova-98</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 	<dependencyManagement>
